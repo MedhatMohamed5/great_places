@@ -26,6 +26,10 @@
 	<string>Gallery</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Camera</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Need to get your location!</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Need to get your location!</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>Microphone</string>
 	<key>UILaunchStoryboardName</key>
